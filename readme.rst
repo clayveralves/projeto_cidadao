@@ -25,7 +25,7 @@ Como executar
 
    .. code-block:: bash
 
-      git clone <url-do-repositorio>
+      git clone https://github.com/clayveralves/projeto_cidadao.git
       cd projeto_cidadao
 
 2. (Opcional) Ajuste variáveis de ambiente e credenciais no ``docker-compose.yml`` se necessário.
